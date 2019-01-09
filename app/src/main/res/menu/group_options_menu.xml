@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:title="Add Member"
+        android:id="@+id/group_addMember_option"
+        app:showAsAction="never"
+        >
+    </item>
+
+    <item
+        android:title="Send Broadcast Message"
+        android:id="@+id/group_broadcastMessage_option"
+        app:showAsAction="never"
+        >
+    </item>
+
+    <item
+        android:title="Leave The Group"
+        android:id="@+id/group_leave_option"
+        app:showAsAction="never"
+        >
+    </item>
+
+    <item
+        android:title="Delete Group"
+        android:id="@+id/group_deleteGroup_option"
+        app:showAsAction="never"
+        >
+    </item>
+
+</menu>
